@@ -1,1 +1,18 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-right: auto;
+    margin-left: auto;
+}
 
+th, td {
+    padding: 10px;
+}
+
+h1, h2, h3, p {
+    color: blue;
+    text-align: center;
+}
+* {
+    background-color: grey;
+}
